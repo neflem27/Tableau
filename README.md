@@ -1,1 +1,1 @@
-These are the xlxsfiles used for my Tableau visualizations.
+These are the files and images used for my Tableau visualizations.
